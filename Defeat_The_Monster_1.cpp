@@ -1,3 +1,6 @@
+// https://www.codechef.com/DSAPREP_01/problems/MONSTER1
+
+
 #include <iostream>
 using namespace std;
 
